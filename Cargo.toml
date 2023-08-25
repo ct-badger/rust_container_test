@@ -19,7 +19,7 @@ tracing = "0.1"
 tracing-subscriber = { version = "0.3", features = ["env-filter"] }
 
 [[bin]]
-name = "server"
+name = "my_test_server"
 path = "src/main.rs"
 
 [[bin]]

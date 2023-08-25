@@ -1,0 +1,5 @@
+services:
+  server:
+    image: my_test_server
+    ports:
+      - 6969:6969
